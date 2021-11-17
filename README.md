@@ -1,2 +1,2 @@
-# todolist
-Repository made for test purposes only 
+# DI-Bootcamp exercices
+
